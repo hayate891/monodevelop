@@ -17,7 +17,7 @@ DEP[0]=md-addins
 DEP_NAME[0]=MDADDINS
 DEP_PATH[0]=${top_srcdir}/../md-addins
 DEP_MODULE[0]=git@github.com:xamarin/md-addins.git
-DEP_NEEDED_VERSION[0]=9d45bd52eb0177c3845198e61c3fcffe0f8e205b
+DEP_NEEDED_VERSION[0]=577e36df508aa64541d75df7c6e8e1445a34e00c
 DEP_BRANCH_AND_REMOTE[0]="grace-period-rebased origin/grace-period-rebased"
 
 # heap-shot
